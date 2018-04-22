@@ -1,0 +1,30 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-02-19 06:25:17 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:25:24 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:25:24 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:25:25 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:25:25 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:25:25 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:25:48 --> Query error: Unknown column 'products.manufacture_id' in 'on clause'
+ERROR - 2012-02-19 06:32:41 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:32:42 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:32:43 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:32:43 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:32:43 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:32:43 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:33:10 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:33:15 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 06:33:24 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:03:09 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:03:56 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:05:02 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:06:53 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:10:49 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:14:29 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:17:04 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:17:08 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:38:15 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:46:20 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:53:05 --> 404 Page Not Found --> admin
+ERROR - 2012-02-19 07:56:17 --> 404 Page Not Found --> admin
